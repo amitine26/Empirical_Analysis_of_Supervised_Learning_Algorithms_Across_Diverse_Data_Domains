@@ -1,4 +1,4 @@
-# Empirical_Analysis_of_Supervised_Learning_Algorithms_Across_Diverse_Data_Domains
+# Empirical Analysis of Supervised Learning Algorithms Across Diverse Data Domains
 
 In this study, I evaluated the performance of five supervised learning classifiers, 
 Random Forest, XGBoost, Support Vector Machines (SVM), Logistic Regression, and K-Nearest 
