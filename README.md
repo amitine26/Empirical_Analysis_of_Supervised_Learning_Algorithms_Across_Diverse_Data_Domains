@@ -12,4 +12,4 @@ diminishing returns, with the most significant gains observed in lower-data regi
 
 Link to Project File: https://github.com/amitine26/Empirical_Analysis_of_Supervised_Learning_Algorithms_Across_Diverse_Data_Domains/blob/main/COGS118A_Final_Project.ipynb
 
-Link to Report: https://drive.google.com/file/d/1PMA40ckfMYAHLKYzF6gttpJsSe3N4vKU/view?usp=sharing
+Link to Report: https://github.com/amitine26/Empirical_Analysis_of_Supervised_Learning_Algorithms_Across_Diverse_Data_Domains/blob/main/Anthony_Mitine_COGS118A_Final_Project_Report.pdf
